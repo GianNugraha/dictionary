@@ -3,8 +3,11 @@
 // link dokumentasi Postman //
 https://documenter.getpostman.com/view/24551595/2s8Z76x9gP
 
-// menu and authorization
+
+# menu and authorization
+
 a. login berdasarkan nama dan kode
+
 b. monitoring member dan buku 
   1. Admin : Get All of List Member with sum of Books (borrow/loan) 
 c. peminjaman (user/loan)
