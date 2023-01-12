@@ -33,3 +33,12 @@ d. pengembalian/return
     - adanya fungsi hukuman pada saat pengembalian telat
     - validasi jika pengembalian buku dengan ID tertentu tidak ada
     
+    
+    #configurasi / instalasi
+- download file git sesuai url yang sudah di berikan
+- tambahkan file .env yang sudah di berikan pada folder project ini
+- sediakan/buat database (postgresql) dengan nama "test_eigen"
+- buka terminal, dan arahkan ke file project ini 
+- jalankan script "npm run up"
+- lalu jalankan script "npm start" dan API sudah bisa di jalankan
+    
